@@ -1,0 +1,862 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "0u751T2hoXicuPCr4PoOmrqyYzc",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PAAOAqDFYaq_wIs7_eEc3IkVxqA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Da4P2uT4mVc"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-13T04:00:00Z",
+        "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+        "title": "IVE 아이브 &#39;Baddie&#39; MV",
+        "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF STARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0 IVE US EXCLUSIVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Da4P2uT4mVc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Da4P2uT4mVc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Da4P2uT4mVc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "starshipTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-13T04:00:00Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3PD7cWPgWy_thbemJxJWGXfJgRs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_ApV7Lm87cg"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-06T04:00:01Z",
+        "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+        "title": "IVE 아이브 &#39;Off The Record&#39; MV",
+        "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF STARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0 IVE US EXCLUSIVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_ApV7Lm87cg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_ApV7Lm87cg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_ApV7Lm87cg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "starshipTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-06T04:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "BzQLkeukaUD9oF2gwrNkoW6KPc0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "ocBhK7w0dRY"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-13T14:00:16Z",
+        "channelId": "UCEIi7zFR_wE23jFncVtd6-A",
+        "title": "[BE ORIGINAL] IVE(아이브) &#39;Baddie&#39; (4K)",
+        "description": "[BE ORIGINAL] IVE 'Baddie' [비 오리지널] 아이브 '배디' 퍼포먼스 최강자 아이브와 스춤의 만남✨ 따라올 테면 따라와 봐 Catch me if ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ocBhK7w0dRY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ocBhK7w0dRY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ocBhK7w0dRY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "STUDIO CHOOM [스튜디오 춤]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-13T14:00:16Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "ZYQ8YgQngSbUbPv25PKwcFlxJBw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6ZUIwj3FgUY"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-10T09:00:10Z",
+        "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+        "title": "IVE 아이브 &#39;I AM&#39; MV",
+        "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF STARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0 IVE US EXCLUSIVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ZUIwj3FgUY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ZUIwj3FgUY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ZUIwj3FgUY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "starshipTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-10T09:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "LVm9Vjz2xga25p52lgDDVOkXby8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "_Hu4GYtye5U"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-25T09:00:04Z",
+        "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+        "title": "IVE 아이브 &#39;Either Way’ MV",
+        "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF STARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0 IVE US EXCLUSIVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/_Hu4GYtye5U/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/_Hu4GYtye5U/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/_Hu4GYtye5U/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "starshipTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-25T09:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YhO02FLNFdAOmm_yiRRI-NOkREE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TR1-UpegVeM"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-19T10:57:51Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "&#39;COMEBACK&#39; IVE - Baddie #엠카운트다운 EP.819 | Mnet 231019 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.819 아이브 - 배디 (IVE - Baddie) World No.1 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TR1-UpegVeM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TR1-UpegVeM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TR1-UpegVeM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-19T10:57:51Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "PcKZtsX70rB6M02k7e3jfLqRpzA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "okVTSehE414"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-13T09:00:04Z",
+        "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+        "title": "IVE 아이브 &#39;I WANT&#39; MV",
+        "description": "PEPSIxSTARSHIP] 2023 #PEPSI X #STARSHIP PEPSI PARTNER IVE 'I WANT' MV #IVE #아이브 #IWANT #펩시 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/okVTSehE414/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/okVTSehE414/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/okVTSehE414/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "starshipTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-13T09:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WeRid1Y9AKthY99u3v4LgnR4fqo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "p2cx9O4NvRA"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-15T14:00:37Z",
+        "channelId": "UC-Fnix71vRP64WXeo0ikd0Q",
+        "title": "[IVE ON] &#39;Baddie&#39; &amp; &#39;Off The Record&#39; DANCE PRACTICE BEHIND",
+        "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF STARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0 IVE US EXCLUSIVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/p2cx9O4NvRA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/p2cx9O4NvRA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/p2cx9O4NvRA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IVE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-15T14:00:37Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rhJ5Gah2PGvom8nZJ9gsoxVz_Xg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pG6iaOMV46I"
+      },
+      "snippet": {
+        "publishedAt": "2023-03-27T09:00:35Z",
+        "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+        "title": "IVE 아이브 &#39;Kitsch&#39; MV",
+        "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF STARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0 IVE US EXCLUSIVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pG6iaOMV46I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pG6iaOMV46I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pG6iaOMV46I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "starshipTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-03-27T09:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "i0C7shTYzGWXMzrbiSRF8Zvf_k4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F0B7HDiY-10"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-22T09:00:04Z",
+        "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+        "title": "IVE 아이브 &#39;After LIKE&#39; MV",
+        "description": "IVE Twitter : https://twitter.com/IVEstarship : https://twitter.com/IVE_twt : https://twitter.com/IVEstarship_JP IVE Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F0B7HDiY-10/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F0B7HDiY-10/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F0B7HDiY-10/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "starshipTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-22T09:00:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "2uX3jrjrE5YhNcugKPvDlNf1lOw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JtENf-ssZ3g"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-13T09:18:53Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "Baddie - IVE [Music Bank] | KBS WORLD TV 231013",
+        "description": "Baddie - IVE [Music Bank] | KBS WORLD TV 231013 #Baddie #IVE #MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JtENf-ssZ3g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JtENf-ssZ3g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JtENf-ssZ3g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-13T09:18:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "cWQ5VPtKt7yAgWJQeo7IUVZaS7U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Y8JFxS1HlDo"
+      },
+      "snippet": {
+        "publishedAt": "2022-04-05T09:00:09Z",
+        "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+        "title": "IVE 아이브 &#39;LOVE DIVE&#39; MV",
+        "description": "IVE Twitter : https://twitter.com/IVEstarship : https://twitter.com/IVE_twt : https://twitter.com/IVEstarship_JP IVE Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Y8JFxS1HlDo/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Y8JFxS1HlDo/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Y8JFxS1HlDo/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "starshipTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-04-05T09:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rCqRH4jAwuCseFClDj2QlBkVP_U",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "8fwuqD0QfHw"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-12T12:00:13Z",
+        "channelId": "UCEIi7zFR_wE23jFncVtd6-A",
+        "title": "(Teaser) [BE ORIGINAL] IVE(아이브) &#39;Baddie&#39; (4K)",
+        "description": "[BE ORIGINAL] IVE 'Baddie' (Teaser) [비 오리지널] 아이브 '배디' (티저) 다크 컨셉까지 찢어버린 아이브   BE ORIGINAL 'IVE' ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/8fwuqD0QfHw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/8fwuqD0QfHw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/8fwuqD0QfHw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "STUDIO CHOOM [스튜디오 춤]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-12T12:00:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "rNAucLS0oAM5cQ_MJ01pZB9VKP4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "D3T50yIRxvU"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-21T07:52:41Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "IVE (아이브) - Baddie | Show! MusicCore | MBC231021방송",
+        "description": "IVE (아이브) - Baddie | Show! MusicCore | MBC231021방송 #IVE #Baddie #MBCKPOP More clips are available ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/D3T50yIRxvU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/D3T50yIRxvU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/D3T50yIRxvU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-21T07:52:41Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "5481cIEBH8wZfFYCc8d7-C9-zq0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "--FmExEAsM8"
+      },
+      "snippet": {
+        "publishedAt": "2021-12-01T09:00:03Z",
+        "channelId": "UCYDmx2Sfpnaxg488yBpZIGg",
+        "title": "IVE 아이브 &#39;ELEVEN&#39; MV",
+        "description": "IVE Twitter : https://twitter.com/IVEstarship : https://twitter.com/IVE_twt : https://twitter.com/IVEstarship_JP IVE Instagram ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/--FmExEAsM8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/--FmExEAsM8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/--FmExEAsM8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "starshipTV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-12-01T09:00:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OVY1jhg-6nCsQfBCVqhXnW19gko",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "UsgoOmVJto4"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-13T09:15:33Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "Off The Record - IVE [Music Bank] | KBS WORLD TV 231013",
+        "description": "Off The Record - IVE [Music Bank] | KBS WORLD TV 231013 #OffTheRecord #IVE #MusicBank #뮤직뱅크 #ミュージックバンク ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/UsgoOmVJto4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/UsgoOmVJto4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/UsgoOmVJto4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-13T09:15:33Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "7NheQ547mPjNHkvYo9cP2qGGrYs",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "NCRYiqvJ7CI"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-03T12:56:56Z",
+        "channelId": "UCE8moOr7XnyV9WVaa7RGf0w",
+        "title": "Wonyoung criticized for &quot;hating IZ*ONE&quot; by rejecting a plush of the group #Kpop #Shorts #IVE",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/NCRYiqvJ7CI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/NCRYiqvJ7CI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/NCRYiqvJ7CI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "El Gato de las Weeekly �",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-03T12:56:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "IOxvKC56SULMY4V7XW0mRxNR35Y",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "toZ9AXjbmvg"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-08T17:00:53Z",
+        "channelId": "UCqxEVKxV2fkZiGrd8kw4zlQ",
+        "title": "Fans upset over absence of NewJeans, Jungkook, IVE and skz at MAMA awards #kpop #kpopnews #shorts",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/toZ9AXjbmvg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/toZ9AXjbmvg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/toZ9AXjbmvg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "haevix",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-08T17:00:53Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "fb4D8cOHnAqiCZq3Qg7RTwXCzOo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "WKbw5psId4I"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-15T10:11:04Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "IVE(아이브) - Baddie @인기가요 inkigayo 20231015",
+        "description": "IVE - Baddie #SBSInkigayo_EP1201 아이브 - Baddie #IVE #Baddie SBS Inkigayo(인기가요) is a Korean music program broadcast ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WKbw5psId4I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WKbw5psId4I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WKbw5psId4I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-15T10:11:04Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Fx3nr-fEcsPZz-GZK8KwJkU8sQ0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "cU0JrSAyy7o"
+      },
+      "snippet": {
+        "publishedAt": "2023-04-12T14:00:20Z",
+        "channelId": "UCEIi7zFR_wE23jFncVtd6-A",
+        "title": "[BE ORIGINAL] IVE(아이브) &#39;I AM&#39; (4K)",
+        "description": "[BE ORIGINAL] IVE 'I AM' [비 오리지널] 아이브 '아이 엠' 아이브가 걷는 대로 길이거든   (2:46) 오늘 DIVE에게 열리는 건 천국   #IVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/cU0JrSAyy7o/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/cU0JrSAyy7o/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/cU0JrSAyy7o/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "STUDIO CHOOM [스튜디오 춤]",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-04-12T14:00:20Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "I8gn22gORPc450IGr5uv1SmX_r4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "heOXXFQq_60"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-14T07:43:34Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "IVE (아이브) - Baddie | Show! MusicCore | MBC231014방송",
+        "description": "IVE (아이브) - Baddie | Show! MusicCore | MBC231014방송 #IVE #Baddie #MBCKPOP More clips are available ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/heOXXFQq_60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/heOXXFQq_60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/heOXXFQq_60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-14T07:43:34Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "kwDTz7lobC74kbl2u2wX3IsTMvM",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "6ZFErX0C3c8"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-28T07:43:32Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "IVE (아이브) - Baddie | Show! MusicCore | MBC231028방송",
+        "description": "IVE (아이브) - Baddie | Show! MusicCore | MBC231028방송 #IVE #Baddie #MBCKPOP More clips are available ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6ZFErX0C3c8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6ZFErX0C3c8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6ZFErX0C3c8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-28T07:43:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "p2QsT_GQbEUyAICkcSG9NzgmV7A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "RyFSYrX0tzE"
+      },
+      "snippet": {
+        "publishedAt": "2023-11-08T16:30:08Z",
+        "channelId": "UCwuO7vAWsv6EEgrwldJt1Wg",
+        "title": "idols that appeared in other idols mv | #kpopshorts #kpop #bts #ive #newjeans #blackpink #straykids",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/RyFSYrX0tzE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/RyFSYrX0tzE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/RyFSYrX0tzE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "maxidentshappen",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-11-08T16:30:08Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "OQWUPn-cu8pk3NpuZ0-jbB83F3k",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bCaL74mgRcY"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-22T02:00:09Z",
+        "channelId": "UC-Fnix71vRP64WXeo0ikd0Q",
+        "title": "#BaddieChallenge #SUNMI � #Baddie #IVE #아이브 #JANGWONYOUNG #Shorts",
+        "description": "STARSHIP SQUARE (Domestic) : https://bit.ly/3HtQ7GF STARSHIP SQUARE (Global) : https://bit.ly/3JWPxm0 IVE US EXCLUSIVE ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bCaL74mgRcY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bCaL74mgRcY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bCaL74mgRcY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IVE",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-22T02:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "_yPN1tjM7-w5KFJOGMOy7w8qARg",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "PFZc5-zMimI"
+      },
+      "snippet": {
+        "publishedAt": "2023-10-27T09:41:56Z",
+        "channelId": "UC5BMQOsAB8hKUyHu9KI6yig",
+        "title": "Baddie - IVE アイヴ [Music Bank] | KBS WORLD TV 231027",
+        "description": "MusicBank #뮤직뱅크 #ミュージックバンク #音乐银行 #Soobin #수빈 #TOMORROWXTOGETHER #LeeChaeMin #이채민 Fri ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/PFZc5-zMimI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/PFZc5-zMimI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/PFZc5-zMimI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS WORLD TV",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-10-27T09:41:56Z"
+      }
+    }
+  ]
+}

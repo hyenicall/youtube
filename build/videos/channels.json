@@ -1,0 +1,43 @@
+{
+  "kind": "youtube#channelListResponse",
+  "etag": "5tCe9z9t827Xq6qobj3ThXj8eUw",
+  "pageInfo": {
+    "totalResults": 1,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#channel",
+      "etag": "ydvrwFlBq561Gl8pU-4koRFj9-w",
+      "id": "UCMki_UkHb4qSc0qyEcOHHJw",
+      "snippet": {
+        "title": "NewJeans",
+        "description": "NewJeans Official YouTube\nNewJeans 공식 유튜브 채널",
+        "customUrl": "@newjeans_official",
+        "publishedAt": "2022-07-07T08:51:57.173469Z",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/dLGCnr9YbATXl48C6yhJnD-OuEWgTYZIdbLrzJD_YLCR7YtpfChrt-eVfWUsuXWDUDQIwOsO=s88-c-k-c0x00ffffff-no-nd-rj",
+            "width": 88,
+            "height": 88
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/dLGCnr9YbATXl48C6yhJnD-OuEWgTYZIdbLrzJD_YLCR7YtpfChrt-eVfWUsuXWDUDQIwOsO=s240-c-k-c0x00ffffff-no-nd-rj",
+            "width": 240,
+            "height": 240
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/dLGCnr9YbATXl48C6yhJnD-OuEWgTYZIdbLrzJD_YLCR7YtpfChrt-eVfWUsuXWDUDQIwOsO=s800-c-k-c0x00ffffff-no-nd-rj",
+            "width": 800,
+            "height": 800
+          }
+        },
+        "localized": {
+          "title": "NewJeans",
+          "description": "NewJeans Official YouTube\nNewJeans 공식 유튜브 채널"
+        },
+        "country": "KR"
+      }
+    }
+  ]
+}
